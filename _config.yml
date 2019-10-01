@@ -1,9 +1,9 @@
-title: Research
-description: Research related stuff.
-author: stormycloudy
-github: https://github.com/stormycloudy
-about: An atmospheric scientist who also codes.
-disqus_shortname: research
+title: Writings
+description: Just writings.
+author: Maxine off Shore
+github: https://github.com/maxoffshore
+about: A trying-really-hard writer.
+disqus_shortname: writings
 
 
 enableTags: true
@@ -17,12 +17,8 @@ collections:
 social:
     - icon: fa-twitter
       link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
-      link: "https://github.com/stormycloudy"
+      link: "https://github.com/maxoffshore"
 
 share:
   twitter_username: github.io
@@ -36,7 +32,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://stormycloudy.github.io"
+url: "https://maxoffshore.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
