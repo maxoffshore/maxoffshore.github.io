@@ -1,0 +1,30 @@
+[
+	{
+		"slug": "cool-project",
+		"name": "Variability",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "2015 - 2019",
+		"tags": ["Dynamics","Clouds","Python"]
+	},
+	{
+		"name": "Radiation",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "Oct 2019",
+		"tags": ["Python","Dynamics"]
+	},
+	{
+		"name": "Untitled cloud project",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "Jan 2020",
+		"tags": ["Dynamics","Clouds"]
+	},
+	{
+		"name": "Clouds",
+		"image": "placeholder.jpg",
+		"date": "Oct 2020",
+		"tags": ["Python","Clouds"]
+	},
+]
